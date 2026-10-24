@@ -1,6 +1,6 @@
 # Polyglot for Marinara Engine
 
-Language study in your Marinara Engine chats. The same Polyglot as the [SillyTavern extension](https://github.com/FigCake/ST.Polyglot). The previous version is at [ME.Polyglot.OLD](https://github.com/FigCake/ME.Polyglot.OLD).
+Language study in your Marinara Engine chats. The same Polyglot as the [SillyTavern extension](https://github.com/FigCake/ST.Polyglot).
 
 ### Features
 
