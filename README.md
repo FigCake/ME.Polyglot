@@ -13,7 +13,7 @@ Language study in your Marinara Engine chats. The same Polyglot as the [SillyTav
 - **Anki** — `.apkg` import and export
 - **Furigana** — readings over kanji
 
-Polyglot paints over Marinara's text and never changes it, so other extensions keep working on the same messages.
+Polyglot paints over Marinara's text and never changes it, so other extensions keep working on the same messages. It works in roleplay and conversation chats, not in game mode.
 
 ### Install
 
