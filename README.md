@@ -2,7 +2,7 @@
 
 Turns your Marinara Engine chats into language study. The same Polyglot as the [SillyTavern extension](https://github.com/FigCake/ST.Polyglot), built for Marinara.
 
-**The new version.** Polyglot no longer hides and redraws your messages: it paints its marks over Marinara's own text and shows translations in boxes floating over the chat, so other extensions' work on a message stays as it is.
+**The new version.** Polyglot no longer hides and redraws your messages: it paints its marks over Marinara's own text and shows translations in boxes floating over the chat, so other extensions' work on a message stays as it is. The version before it is kept at [FigCake/ME.Polyglot.OLD](https://github.com/FigCake/ME.Polyglot.OLD).
 
 ### Main features
 
@@ -20,7 +20,7 @@ Turns your Marinara Engine chats into language study. The same Polyglot as the [
 ### Install with Fetchy
 
 1. Install [Fetchy](https://github.com/FigCake/ME.Fetchy) (it needs `ENABLE_EXTERNAL_EXTENSIONS=true` in Marinara's `.env`)
-2. Settings → Addons → External Extensions → **Install from GitHub (Fetchy)** → `FigCake/ME.Polyglot2` (with Polyglot already installed, choose **Update existing extension**: your words stay)
+2. Settings → Addons → External Extensions → **Install from GitHub (Fetchy)** → `FigCake/ME.Polyglot` (with Polyglot already installed, choose **Update existing extension**: your words stay)
 3. Open **Polyglot** in the list → **Review and Run** to approve it
 4. A globe button appears in the top bar: the panel and Polyglot's settings
 
