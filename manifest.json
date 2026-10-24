@@ -3,7 +3,7 @@
   "version": 1,
   "config": {
     "name": "Polyglot",
-    "version": "2.2.7",
+    "version": "2.3.0",
     "description": "Language study in your chats: highlights, tap translation, wordbook and reviews, dialogue voice, quizzes.",
     "runtime": "client",
     "capabilities": [
