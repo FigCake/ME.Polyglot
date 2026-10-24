@@ -2,7 +2,7 @@
 
 Turns your Marinara Engine chats into language study. The same Polyglot as the [SillyTavern extension](https://github.com/FigCake/ST.Polyglot), built for Marinara.
 
-**The new version.** Polyglot no longer hides and redraws your messages: it paints its marks over Marinara's own text and shows translations in boxes floating over the chat, so other extensions' work on a message stays as it is. Not in it yet: ▶ after each line of dialogue and furigana.
+**The new version.** Polyglot no longer hides and redraws your messages: it paints its marks over Marinara's own text and shows translations in boxes floating over the chat, so other extensions' work on a message stays as it is.
 
 ### Main features
 
@@ -11,10 +11,11 @@ Turns your Marinara Engine chats into language study. The same Polyglot as the [
 - **Whole-message translation** — Turn it on for a message (its button, or `/pg-translate`), then point at a paragraph (or tap it on a phone): its translation floats under it
 - **Input assistant** — Fix or translate what you type before sending
 - **Wordbook & reviews** — Save words, review them on a spaced schedule; words you are learning are underlined in chat
-- **Listen to dialogue** — The message's 🎧 button reads its lines aloud, in each character's voice
+- **Listen to dialogue** — ▶ after each line reads it aloud, in each character's voice; 🎧 reads them all
 - **Study modes** — Flashcards, quizzes, writing practice, matching, dictation and shadowing
 - **Pronunciation checks** — Optional, with your own key: Azure scores word by word, OpenAI transcription, and AI advice on your recording
 - **Anki** — Import and export `.apkg` decks with sounds and pictures
+- **Furigana** — Readings over kanji (Japanese)
 
 ### Install with Fetchy
 
