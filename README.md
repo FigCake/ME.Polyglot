@@ -44,6 +44,8 @@ Words, sounds and pictures are saved on the Marinara server in `data/game-assets
 
 **Settings → Back up** saves everything to one file, which restores in the SillyTavern extension and the [web app](https://github.com/FigCake/W.Polyglot) too. API keys are never included.
 
+**To stop using Polyglot**, first press **Erase all Polyglot data** at the bottom of Polyglot's settings (it offers a backup first), then delete Polyglot in Settings → Addons. Deleting the extension alone keeps your data, so a reinstall picks up where you left off.
+
 ### Requirements
 
 Marinara Engine 2.5.0 or newer with External Extensions enabled. Pronunciation practice works in Chrome or Edge, or in any browser with an Azure or OpenAI key.
