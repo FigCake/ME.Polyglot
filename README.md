@@ -20,7 +20,7 @@ Polyglot paints over Marinara's text and never changes it, so other extensions k
 1. Install [Fetchy](https://github.com/FigCake/ME.Fetchy) (`ENABLE_EXTERNAL_EXTENSIONS=true` in Marinara's `.env`)
 2. Settings → Addons → External Extensions → **Install from GitHub (Fetchy)** → `FigCake/ME.Polyglot` (to update, choose **Update existing extension**: your words stay)
 3. **Polyglot** → **Review and Run**
-4. The globe in the top bar opens the panel and settings (with Dispensa or Fornello installed it is a slice of cake that also opens their settings)
+4. The globe in the top bar opens the panel and settings (with Dispensa or Fornello installed it is a slice of cake that also opens their settings, and holds Fornello's script buttons when Dispensa is not there)
 
 ### AI and voice
 
